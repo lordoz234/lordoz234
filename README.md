@@ -21,8 +21,3 @@ I'm Devlikamov Vladislav. I'm Kaggle Notebooks Grandmaster. My areas of study ar
 ### Codewars Rank
 
 ![Codewars](https://www.codewars.com/users/lordoz/badges/large)
-
-### Kaggle Rank
-
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lordozvlad/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lordozvlad/discussion/light)
