@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I'm Devlikamov Vladislav. I'm Kaggle Notebooks Grandmaster. My areas of study are Machine Learning, graphs and research.
-
-
-### Codewars Rank
-
-![Codewars](https://www.codewars.com/users/lordoz/badges/large)
